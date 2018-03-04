@@ -2,11 +2,11 @@
 
 If Deep Blue could talk
 =======================
-[![Latest Version](https://pypip.in/version/deep-blue-talks/badge.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
-[![Downloads](https://pypip.in/download/deep-blue-talks/badge.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
-[![Supported Python Version](https://pypip.in/py_versions/deep-blue-talks/badge.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
-[![License](https://pypip.in/license/deep-blue-talks/badge.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
-[![Development Status](https://pypip.in/status/deep-blue-talks/badge.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
+[![Latest Version](https://img.shields.io/pypi/v/deep-blue-talks.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
+[![Downloads](https://img.shields.io/pypi/dm/deep-blue-talks.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
+[![Supported Python Version](https://img.shields.io/pypi/pyversions/deep-blue-talks.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
+[![License](https://img.shields.io/pypi/l/deep-blue-talks.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
+[![Development Status](https://img.shields.io/pypi/status/deep-blue-talks.svg)](https://pypi.python.org/pypi/deep-blue-talks/)
 
 With a GM mind provided by [Stockfish][stockfish].
 
